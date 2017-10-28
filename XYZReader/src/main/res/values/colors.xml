@@ -1,0 +1,29 @@
+<!-- File created by the Android Action Bar Style Generator
+
+     Copyright (C) 2012 readyState Software Ltd
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <color name="photo_placeholder">#ff8383</color>
+
+    <color name="theme_primary">#065a69</color>
+    <color name="theme_primary_dark">#99ffc4</color>
+    <color name="theme_accent">	#1e6963</color>
+    <color name="ltgray">#ffa1a1</color>
+    <color name="red">#c51f1f</color>
+    <color name="derk_red">#ff0000</color>
+
+
+</resources>
