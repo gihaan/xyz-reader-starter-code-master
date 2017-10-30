@@ -25,5 +25,16 @@
     <color name="red">#c51f1f</color>
     <color name="derk_red">#ff0000</color>
 
+    <color name="start_color">#3000</color>
+    <color name="end_color">#0000</color>
+    <color name="back_ground">#ffffff</color>
+
+    <color name="text_color">#8fff</color>
+    <color name="shape_color">#1E000000</color>
+
+
+
+
+
 
 </resources>
