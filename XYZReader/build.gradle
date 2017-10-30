@@ -34,9 +34,8 @@ dependencies {
 //     snack par
     compile 'com.nispok:snackbar:2.11.+'
     //design
-    "com.android.support:design:22.2.1"
-    "com.android.support:appcompat-v7:23.1.1"
-
+    compile 'com.android.support:appcompat-v7:23.1.1'
+    compile 'com.android.support:design:23.1.1'
 
 
     compile files('libs/volley.jar')

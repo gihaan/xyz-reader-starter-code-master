@@ -59,7 +59,7 @@ public class ArticleListActivity extends AppCompatActivity implements
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_article_list);
 
-    mToolbar = (Toolbar) findViewById(R.id.toolbar);
+        mToolbar = (Toolbar) findViewById(R.id.toolbar);
 
 
         //Snack Bar
@@ -72,7 +72,7 @@ public class ArticleListActivity extends AppCompatActivity implements
                 Snackbar.with(getApplicationContext())
                         .text("Welcome in Our Application For News"));
 
-      //  final View toolbarContainerView = findViewById(R.id.toolbar_container);
+        //  final View toolbarContainerView = findViewById(R.id.toolbar_container);
 
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
 
