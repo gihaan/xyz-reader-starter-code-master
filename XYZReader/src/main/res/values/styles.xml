@@ -6,6 +6,18 @@
         <item name="colorPrimaryDark">#AB000D</item>
         <item name="colorPrimary">#E53935</item>
         <item name="colorAccent">#00B8D4</item>
+
+
+
+    </style>
+
+
+    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
+    <style name="Theme.Bacon.Detail">
+        <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
 
 
