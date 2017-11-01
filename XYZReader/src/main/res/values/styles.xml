@@ -5,9 +5,6 @@
 
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
 
-        <item name="colorPrimaryDark">#AB000D</item>
-        <item name="colorPrimary">#E53935</item>
-        <item name="colorAccent">#00B8D4</item>
 
 
 
@@ -15,6 +12,9 @@
 
 
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">#AB000D</item>
+        <item name="colorPrimary">#E53935</item>
+        <item name="colorAccent">#00B8D4</item>
 
     </style>
 

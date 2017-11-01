@@ -82,7 +82,7 @@
             <FrameLayout
                 android:id="@+id/photo_container"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="305dp"
                 >
                 <!--suppress AndroidLintContentDescription -->
 
