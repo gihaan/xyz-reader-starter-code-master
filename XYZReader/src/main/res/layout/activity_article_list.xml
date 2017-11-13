@@ -17,8 +17,9 @@
         android:layout_height="95dp"
         android:layout_marginLeft="@dimen/list_toolbar_side_margin"
         android:layout_marginRight="@dimen/list_toolbar_side_margin"
-        android:background="@color/derk_red"
-        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Dark"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        >
 
         <ImageView
             android:layout_width="wrap_content"
