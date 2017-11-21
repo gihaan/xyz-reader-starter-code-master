@@ -73,7 +73,7 @@
                     android:padding="10dp"
                     android:paddingBottom="@dimen/detail_body_bottom_margin"
                     android:textColor="@android:color/black"
-                    android:textColorLink="@android:color/black"
+                    android:textColorLink="@color/colorAccent"
 
                     android:textSize="@dimen/detail_body_text_size" />
 
